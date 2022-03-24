@@ -1,0 +1,41 @@
+body { 
+	font-family: 'Open Sans', sans-serif;	font-size: 25px;
+}
+.logo {
+	width: 200px;
+}
+.new1 {
+	color: white;
+	background: blue;
+	box-sizing: border-box;
+	width: 160px;
+}
+h1 {
+	 color: red;
+}
+h2 {
+	padding: 10px;
+	margin-left: 0px;
+	font-family: Times New Roman;
+	font-size: 25px;
+	font-style: normal;
+	color: #fff;
+	background: green;
+}
+p span {
+	color: red;
+}
+
+.left {
+	margin-left: 100px; 
+
+}
+.block {
+	height: 70px;
+	padding-left: 50px;
+	padding-top: 40px;
+}
+li {
+	border: 2px solid black;
+	font-size: 30px
+}
